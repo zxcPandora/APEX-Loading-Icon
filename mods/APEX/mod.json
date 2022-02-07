@@ -1,0 +1,6 @@
+{
+	"Name" : "APEX spinner",
+	"Description" : "Allow you use the spinner from APEX",
+	"Version": "1.0.0",
+	"LoadPriority": 2
+}
